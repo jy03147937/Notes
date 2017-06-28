@@ -1,20 +1,20 @@
-#This is the main title
+# This is the main title
 
-###set
+### set
 * a
 * b
 * c
 
-###list
+### list
 1. a
 2. b
 3. c
 
-###quote
+### quote
 there is one quote:
 >Here lies one whose name was written on water.
 
-###font
+### font
 **bold font**
 *italic*
 <font color='red'>I'm red<font>
