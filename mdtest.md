@@ -15,6 +15,6 @@ there is one quote:
 >Here lies one whose name was written on water.
 
 ### font
-**bold font
-*italic
+**bold font**
+*italic*
 <font color='red'>I'm red<font>
