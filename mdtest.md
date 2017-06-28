@@ -21,11 +21,9 @@ there is one quote:
 
 <font color='red'>I'm red<font>
 
-*This text will be italic*    _This will also be italic_
-
-**This text will be bold**
-__This will also be bold__
-
+*This text will be italic*    _This will also be italic_    
+**This text will be bold**    
+__This will also be bold__    
 _You **can** combine them_
-dd
-aaa
+
+**Atom editor's markdown previewer is not the same as github markdown parser online.**
