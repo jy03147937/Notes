@@ -17,13 +17,18 @@ there is one quote:
 ### font
 **bold font**
 
-*italic*
+<font color='red'>I'm red</font> (_it seems that changes to color is not supported in github online view_)
 
-<font color='red'>I'm red<font>
-
-*This text will be italic*    _This will also be italic_    
+*This text will be italic*  
+_This will also be italic_    
 **This text will be bold**    
 __This will also be bold__    
 _You **can** combine them_
 
-**Atom editor's markdown previewer is not the same as github markdown parser online.**
+```
+public class firstClass() {
+  print("Hello, world!");
+}
+```
+this is how to put a horizontal rule
+***
