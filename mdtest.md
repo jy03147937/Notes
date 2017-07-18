@@ -32,3 +32,5 @@ public class firstClass() {
 ```
 this is how to put a horizontal rule
 ***
+
+![could not find picture](Notes/test.jpg)
