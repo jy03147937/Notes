@@ -33,4 +33,4 @@ public class firstClass() {
 this is how to put a horizontal rule
 ***
 
-![could not find picture](Notes/test.jpg)
+![could not find picture](https://github.com/jy03147937/Notes/blob/master/test.jpg?raw=true)
